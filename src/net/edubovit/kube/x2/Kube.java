@@ -1,3 +1,5 @@
+package net.edubovit.kube.x2;
+
 import java.util.Objects;
 
 public record Kube(Side top, Side front, Side right, Side rear, Side left, Side bottom) {

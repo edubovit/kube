@@ -1,3 +1,5 @@
+package net.edubovit.kube.x2;
+
 import java.util.function.Function;
 
 public enum Movement {

@@ -1,3 +1,5 @@
+package net.edubovit.kube.x2;
+
 import java.util.Objects;
 
 public record Step(Kube state, Movement lastMovement, Step prevStep, int stepNumber) {

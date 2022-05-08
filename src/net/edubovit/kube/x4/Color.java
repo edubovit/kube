@@ -1,3 +1,5 @@
+package net.edubovit.kube.x4;
+
 public enum Color {
 
     WHITE('W'),

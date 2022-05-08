@@ -1,3 +1,5 @@
+package net.edubovit.kube.x2;
+
 import java.util.Objects;
 
 public record Side(Color topLeft, Color topRight, Color bottomLeft, Color bottomRight) {
